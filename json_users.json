@@ -1,0 +1,34 @@
+[
+  {
+    "nombre": "gAAAAABjbkBEU82vW8GB-KOzUTnUeInZqKdJo_Dk7lKwzrT-cjZ7vHVEnXxMJyq_U7aOzt1vqraPkA32KrIjqkgqtDUgKZ0PfQ==",
+    "apellido": "gAAAAABjbkBE8QfE0SGADYDOSiyvfVdL9No0CvZHE9GpXi2xvylpIVmkVtD0ab7DIk72-n-AXexulEI_R1DmgxvctXZUlsVQ4A==",
+    "fecha": "gAAAAABjbkBEPIxE5WeiSbMaFI6HBvm3nDk-9Pe9g5tlFppb4rilb_pLPeK9FZvKy3wkUpk7mC4wtVydBUlF1CXDm9F-sO26Wg==",
+    "DNI": "gAAAAABjbkBEQNAEGTaAtd3yC6Gy6vo4Ayabqc86wm39HqxzoevDu8x3mjfyD4L87mHqQAEJfBw_dES-iFVyjmdDmPNUPCFKDA==",
+    "Rol": "Usuario",
+    "usuario": "Legendoscuro"
+  },
+  {
+    "nombre": "gAAAAABjbk45Wnff4S4yz-dY5jxeqbfZHZfbmz7YQx31I-xTj9nnIRk1cabh15zSSml_3m5RPvmgdSRd8XqinTRPMXGohFnluA==",
+    "apellido": "gAAAAABjbk45kxAIFKUU5irn1r-EZAqPyakpJpaiPklLx1ju-rB302dXt-D_3rwbPlQnRN1RLCSvwDS_OQyKY2nOU9jDBOraXw==",
+    "fecha": "gAAAAABjbk45EpQfyMY-nXkaPwY89PXcMF1x9FwSsxNImhCrJi375GX365FRnx4P_xCXd_zuEl7UXGEtwVSM4kiMATlY1sivJg==",
+    "DNI": "gAAAAABjbk45Tn3YMT5KuI5cZQ2dJyaQiO1x3ZnbNp2ZkXOdBgQufEO7TML6lHZeDNYUbYTi38PKoDOZyJYdU-aqoMSLH8NzMQ==",
+    "Rol": "Usuario",
+    "usuario": "pepe"
+  },
+  {
+    "nombre": "gAAAAABjf4S0Kzjg9peR3PRQhsDRP-uzmrH8Gvjw1tD46Z4baSnvpSsIVA3Px49QUcHGmIHTLnG-URmaKRcA3sKKLqtqgDgICw==",
+    "apellido": "gAAAAABjf4S0R96MGELPm6PndfSGolz3fSbgHVGmqRITOekCUip1eDzfm52p1LTsqF0ZxnygmXegD4gI-SgQj6P9w8vY5OAlMQ==",
+    "fecha": "gAAAAABjf4S0j8PUXA8LSzCx1Jk2wooIl6uy_-z1iYT8gfMrJt2RoGTDFWGsiP_Lb3XJjcRzd8lJGIdV1nUVZElaoJOeNOATqg==",
+    "DNI": "gAAAAABjf4S072g7wsPQn3TQo-j_vcxffyec7Iy8qOIImdlfbUN6LmfvnQJInnozLd4JR2JB8XJjzws9cgf_8rqvwrStpCECqQ==",
+    "Rol": "Usuario",
+    "usuario": "hola"
+  },
+  {
+    "nombre": "gAAAAABjf4UHNgEPOXtERw7fct3M2vu2H0_YCD1z9w5GDtwBeqKoc1c2ZYp_sX5Gu1AytKpR4h7V09fz3lquJe5WcLC588nudA==",
+    "apellido": "gAAAAABjf4UHsYXr1RCCtHDFvX9dz3zTkl-tl494rs7sxYZ7nMUcOuKPMUC9WyR_3to6ZRFBvpE0XNgKeJVbDE2252W-0JzTMA==",
+    "fecha": "gAAAAABjf4UH7MhzEQmL5ot-dxZ7Kvp2IMZ94fJA7Kc8DaukloaOClYENAQEPNGcFRvLfmcP_yC_krfZmcNLYP1rQTTC5WaDKQ==",
+    "DNI": "gAAAAABjf4UHRggne6oZN899xUlaXd4Sqicf9vVrLoU-p9_BAAd2Es7t1cI6M08iUL-Ptx5plNAFby34aMO0dNw8oHAHHopZzw==",
+    "Rol": "Admin",
+    "usuario": "Admin"
+  }
+]
